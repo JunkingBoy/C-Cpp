@@ -15,7 +15,7 @@ int main(void)
     int row;
     char ch;
 
-    for (row = 0; row < ROWS; row++)
+    for (row = 0; row < ROWS; row++) // 外循环,执行六次
     {
         for (ch = ('A' + row); ch < ('A' + CHARS); ch++)
         {
