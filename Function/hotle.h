@@ -10,7 +10,7 @@
 int menu(void);
 
 // 返回预定天数
-int getNights(void)
+int getNights(void);
 
 // 根据费率、入住天数计算费用,显示结果
 void showPrice(double rate, int nights);

@@ -1,3 +1,11 @@
+/**
+ * @Author: Lucifer
+ * @Date: 5/4/2023, 4:33:42 PM
+ * @LastEditors: Lucifer
+ * @LastEditTime: 5/4/2023, 4:33:42 PM
+ * Description: 菜单程序示例,函数示例
+ * Copyright: Copyright (©)}) 2023 Your Name. All rights reserved.
+ */
 # include<stdio.h>
 # include "hotel.h"
 
