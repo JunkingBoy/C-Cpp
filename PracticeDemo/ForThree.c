@@ -17,7 +17,7 @@ int main(void)
 
     for (int i = 0; i < n; i++)
     {
-        for (char j = end, k = 0; j < temp, k < i + 1; j++, k++)
+        for (char j = end, k = 0; j < temp, k < i + 1; j++, k++) // 不需要记录末尾值,直接让字符递增即可
         {
             printf("%c", j);
             end = j + 1;

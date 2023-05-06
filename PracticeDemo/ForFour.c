@@ -1,3 +1,11 @@
+/**
+ * @Author: Lucifer
+ * @Date: 5/6/2023, 3:12:45 PM
+ * @LastEditors: Lucifer
+ * @LastEditTime: 5/6/2023, 3:12:45 PM
+ * Description: 打印三角形
+ * Copyright: Copyright (©)}) 2023 Your Name. All rights reserved.
+ */
 # include<stdio.h>
 
 int main(void)
