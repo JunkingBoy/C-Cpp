@@ -3,6 +3,7 @@
         "stdio.h": "c",
         "stdlib.h": "c",
         "stdbool.h": "c",
-        "hotle.h": "c"
+        "hotle.h": "c",
+        "ctype.h": "c"
     }
 }
