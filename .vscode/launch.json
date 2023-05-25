@@ -19,7 +19,7 @@
             //true显示外置的控制台窗口，false显示内置终端
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebuggerPath": "E:\\GccCompile\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "P:\\MingGwCompiler\\mingw64\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",
