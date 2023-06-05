@@ -5,5 +5,38 @@
         "stdbool.h": "c",
         "hotle.h": "c",
         "ctype.h": "c"
-    }
+    },
+    // "fileheader.customMade": {
+    //     "Author": "git config user.name",
+    //     "Date": "Do not edit",
+    //     "LastEditors": "git config user.name",
+    //     "LastEditTime": "Do not edit",
+    //     "filePath": "Do not edit",
+    //     "Description": "",
+    //     "custom_string_obkoro1_copyright": "Copyright (c) ${now_year} by ${git_name_email}, All Rights Reserved. "
+    // },
+    // "fileheader.cursorMode": {
+    //     "description": "",
+    //     "param": "",
+    //     "reaturn": "",
+    // },
+    // "fileheader.configObj": {
+    //     "createFileTime": true,
+    //     "autoAdd": true,
+    //     "moveCursor": true,
+    //     "dateFormat": "YYYY-MM-DD HH:mm:ss",
+    //     "language": {
+    //         "h/hpp/cpp": {
+    //             "head": "/*** ", // 统一增加几个*号
+    //             "middle": " * @",
+    //             "end": " */"
+    //           },
+    //     },
+    //     "annotationStr": { 
+    //         "head": "/*",
+    //         "middle": " * @",
+    //         "end": " */",
+    //         "use": false
+    //       },
+    // }
 }
