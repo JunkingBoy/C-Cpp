@@ -4,8 +4,16 @@
         "stdlib.h": "c",
         "stdbool.h": "c",
         "hotle.h": "c",
-        "ctype.h": "c"
+        "ctype.h": "c",
+        "string.h": "c",
+        "crtdefs.h": "c",
+        "windows.h": "c",
+        "curl.h": "c",
+        "pthread.h": "c"
     },
+    // "cmake.configureSettings": {
+    //     "CMAKE_TOOLCHAIN_FILE": "P:\\Vcpkg\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"
+    // }
     // "fileheader.customMade": {
     //     "Author": "git config user.name",
     //     "Date": "Do not edit",

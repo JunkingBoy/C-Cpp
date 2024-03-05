@@ -1,3 +1,10 @@
+/*
+ * @Author: Lucifer
+ * @Data: Do not edit
+ * @LastEditors: Lucifer
+ * @LastEditTime: 2024-02-26 17:26:51
+ * @Description: 
+ */
 /**
  * @Author: Lucifer
  * @Date: 5/15/2023, 10:57:25 PM
@@ -23,7 +30,7 @@ int main(void)
     /**
      * 可以看到输出1、3、4、5的地址都是相同的,说明这些值的指针一致
      * 输出2地址不相同,说明经过了拷贝的过程,和上面的描述一致
-    */
+     */
 
     getchar();
 

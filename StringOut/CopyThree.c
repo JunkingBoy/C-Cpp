@@ -1,3 +1,10 @@
+/*
+ * @Author: Lucifer
+ * @Data: Do not edit
+ * @LastEditors: Lucifer
+ * @LastEditTime: 2023-06-15 03:16:45
+ * @Description: 
+ */
 # include<stdio.h>
 # include<string.h>
 # define SIZE 40

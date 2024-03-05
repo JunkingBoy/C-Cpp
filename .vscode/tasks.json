@@ -13,6 +13,8 @@
 				"${fileDirname}\\${fileBasenameNoExtension}.exe",
 				// 设置编码为GBK
 				"-fexec-charset=GBK"
+				// "UIAutomationCore.lib",
+				// "Ole32.lib"
 			],
 			"options": {
 				"cwd": "P:/MingGwCompiler/mingw64/bin"

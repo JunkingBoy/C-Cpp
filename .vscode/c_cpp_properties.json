@@ -3,7 +3,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                // 添加vcpkg安装的库路径
+                "P:\\Vcpkg\\vcpkg\\installed\\x64-windows\\include"
             ],
             "defines": [
                 "_DEBUG",
@@ -14,6 +16,21 @@
             "cStandard": "c17",
             "cppStandard": "gnu++14",
             "intelliSenseMode": "gcc-x64"
+            // "browse": {
+            //     "path": [
+            //         "${workspaceFolder}/**"
+            //     ],
+            //     "limitSymbolsToIncludedHeaders": true,
+            //     "databaseFilename": ""
+            // },
+            // "windowsSdkVersion": "10.0.22621.0",
+            // "linker": {
+            //     "executablePath": "P:\\MingGwCompiler\\mingw64\\bin/g++.exe",
+            //     "args": [
+            //         "-lUIAutomationCore",
+            //         "-lOle32"
+            //     ]
+            // }
         }
     ],
     "version": 4
