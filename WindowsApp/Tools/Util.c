@@ -159,7 +159,7 @@ const char *get_json_file(const char *file_name)
     else
     {
         fprintf(stderr, "Error: %s is not a JSON file\n", file_name);
-        exit(1);
+        exit(EXIT_FAILURE);
     }
         
     
@@ -195,13 +195,13 @@ const char *copy_file(const char *file_name)
             else
             {
                 fprintf(stderr, "Error: Failed to allocate memory for JSON content\n");
-                exit(1);
+                exit(EXIT_FAILURE);
             }
         }
     }
     else
     {
         fprintf(stderr, "Error: Failed to open JSON file: %s\n", file_name);
-        exit(1);
+        exit(EXIT_FAILURE);
     }
 }
