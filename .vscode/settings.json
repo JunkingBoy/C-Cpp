@@ -9,7 +9,10 @@
         "crtdefs.h": "c",
         "windows.h": "c",
         "curl.h": "c",
-        "pthread.h": "c"
+        "pthread.h": "c",
+        "util.h": "c",
+        "request.h": "c",
+        "getopt.h": "c"
     },
     // "cmake.configureSettings": {
     //     "CMAKE_TOOLCHAIN_FILE": "P:\\Vcpkg\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"
