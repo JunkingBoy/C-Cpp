@@ -138,11 +138,6 @@ void process_arguments(int argc, char *argv[])
         fprintf(stderr, "ERROR: Missing required argument -G or -P\n");
         exit(EXIT_FAILURE);
     }
-    // else if (FOUND_P && !FOUND_B)
-    // {
-    //     fprintf(stderr, "ERROR: Missing required argument -B after -P\n");
-    //     exit(EXIT_FAILURE);
-    // }
 }
 
 // 判断文件是否为.json文件
